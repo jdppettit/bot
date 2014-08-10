@@ -1,1 +1,1 @@
-This is an IRC bot that does things.
+This is a terrible IRC bot that does things.
